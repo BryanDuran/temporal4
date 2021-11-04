@@ -1,0 +1,8 @@
+mvn archetype:generate \
+-DgroupId=mx.uv  \
+-DartifactId=ejemplo1 \
+-DarchetypeArtifactId=maven-archetype-quickstart  \
+-DarchetypeVersion=1.4 \
+-DinteractiveMode=false
+[13:11]
+mvn archetype:generate -DgroupId=mx.uv  -DartifactId=ejemplo1 -DarchetypeArtifactId=maven-archetype-quickstart  -DarchetypeVersion=1.4 -DinteractiveMode=false
