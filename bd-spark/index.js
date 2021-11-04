@@ -1,3 +1,4 @@
+
 var btnRegistrar = document.getElementById("btnRegistrar");
 btnRegistrar.addEventListener("click", () => {
     axios.post("http://localhost:4567/usuario", {
